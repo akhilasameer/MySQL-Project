@@ -7,6 +7,7 @@ Create a database named library and create following TABLES in the database:
 4. IssueStatus
 5. ReturnStatus
 6. Books
+
 Attributes for the tables:
 1. Branch
 ∙ Branch_no - Set as PRIMARY KEY
@@ -48,7 +49,8 @@ BOOKS table
 ∙ Status [Give yes if book available and no if book not available] ∙
 Author
 ∙ Publisher
-Write the queries for the following:
+
+  Write the queries for the following:
 1. Retrieve the book title, category, and rental price of all available books.
 2. List the employee names and their respective salaries in descending order of salary.
 3. Retrieve the book titles and the corresponding customers who have issued those books.
